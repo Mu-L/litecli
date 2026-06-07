@@ -6,7 +6,7 @@
 
 ### Internal
 
-- Add a GitHub Actions workflow to run Codex review on pull requests.
+- Remove the Codex review GitHub Actions workflow.
 - Drop Python 3.9 from test matrices and tooling targets.
 
 ## 1.19.0 - 2026-01-30
